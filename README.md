@@ -21,8 +21,3 @@ SmartNestBox
 Bird Feeder
 
 Bat Counter
-
-
-The Light Barrier features EFM32 ...the world´s most energy friendly microcontrollers
-
-ARM Cortex-M3 EFM32G230F128

@@ -20,7 +20,8 @@ Prototype: Bat Counter
 
 https://github.com/peterloes/Light_Barrier/blob/master/Getting_Started_Tutorial/1_poster_overview_LightBarrier_Counter.pdf
 
-Mainboard: https://github.com/peterloes/MOMO
+Mainboard: https://github.com/peterloes/MOMO 
+https://github.com/peterloes/RFID-MS
 
  - Low-Power Device
 

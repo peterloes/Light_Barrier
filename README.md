@@ -22,7 +22,7 @@ https://github.com/peterloes/Light_Barrier/blob/master/Getting_Started_Tutorial/
 
 Mainboard: https://github.com/peterloes/MOMO
 
-    Low-Power Device
+ - Low-Power Device
 
 The standalone Linear Actuator features EFM32 ...the world´s most energy friendly microcontrollers
 

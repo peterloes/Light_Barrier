@@ -16,11 +16,14 @@ Parameter Distance 3,3 Meter: 12V@4mA average
 
 ![My image](https://github.com/peterloes/Light_Barrier/blob/master/Getting_Started_Tutorial/2_Mechanik_Sensor_1.JPG)
 
-Prototype: Bat Counter
+Prototype: Bat Counter; Long Range RFID- Reader for Shore-Birds 
 
 https://github.com/peterloes/Light_Barrier/blob/master/Getting_Started_Tutorial/1_poster_overview_LightBarrier_Counter.pdf
 
-Mainboard: https://github.com/peterloes/MOMO 
+https://github.com/peterloes/Light_Barrier/blob/master/Getting_Started_Tutorial/1_poster_overview_MOMO_LB_LR.pdf
+
+Mainboard: https://github.com/peterloes/MOMO
+
 https://github.com/peterloes/RFID-MS
 
  - Low-Power Device

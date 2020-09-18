@@ -30,8 +30,6 @@ https://github.com/peterloes/MOMO
 
 https://github.com/peterloes/RFID-MS
 
- - Low-Power Device
-
 Manufacture:
 
 https://github.com/peterloes/Light_Barrier/blob/master/Getting_Started_Tutorial/3_Supplier.txt

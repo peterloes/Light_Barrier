@@ -32,6 +32,10 @@ https://github.com/peterloes/RFID-MS
 
  - Low-Power Device
 
+Manufacture:
+
+https://github.com/peterloes/Light_Barrier/blob/master/Getting_Started_Tutorial/3_Supplier.txt
+
 The standalone Linear Actuator features EFM32 ...the world´s most energy friendly microcontrollers
 
 ARM Cortex-M3 EFM32G230F128

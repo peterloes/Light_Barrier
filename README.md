@@ -11,8 +11,8 @@ LED Vishay: VSLB3940
 
 ![My image](https://github.com/peterloes/Light_Barrier/blob/master/Getting_Started_Tutorial/2_Electronic_board.jpg)
 
-Parameter: 12V@130µA average
-Parameter Distance 3,3 Meter: 12V@4mA average
+Parameter: 130µA@12V average
+Parameter Distance 3,3 Meter: 4mA@12V average
 
 ![My image](https://github.com/peterloes/Light_Barrier/blob/master/Getting_Started_Tutorial/2_Mechanik_Sensor_1.JPG)
 

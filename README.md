@@ -13,6 +13,7 @@ LED Vishay: VSLB3940
 
 ![My image](https://github.com/peterloes/Light_Barrier/blob/master/Getting_Started_Tutorial/2_Electronic_board.jpg)
 
+
 Two high level Signal: 204µA@3,3V
 Two low  level Signal: 1.49mA@3,3V
 

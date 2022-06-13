@@ -40,3 +40,8 @@ https://github.com/peterloes/RFID-MS
 Manufacture:
 
 https://github.com/peterloes/Light_Barrier/blob/master/Getting_Started_Tutorial/3_Supplier.txt
+
+EXTENSION:
+
+https://github.com/peterloes/SmartAnimalTraps
+https://github.com/peterloes/SmartAnimalTraps

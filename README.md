@@ -9,7 +9,7 @@ Wide Input Voltage Range: 3.3V to 60V
 
 Example with Receiver Vishay: TSSP58038 and LED Vishay: VSLB3940
 
-Always low Level triggered.
+Always low Level triggered for wire monitoring(breakage).
 
 ![My image](https://github.com/peterloes/Light_Barrier/blob/master/Getting_Started_Tutorial/2_Electronic_board.jpg)
 

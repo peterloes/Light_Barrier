@@ -13,7 +13,15 @@ LED Vishay: VSLB3940
 
 ![My image](https://github.com/peterloes/Light_Barrier/blob/master/Getting_Started_Tutorial/2_Electronic_board.jpg)
 
-Parameter: 130µA@12V average
+Two high level Signal: 204µA@3.3V
+Two low  level Signal: 1.49mA@3.3V
+
+Two high level Signal: 195µA@5V
+Two low  level Signal: 1.49mA@5V
+
+Two high level Signal: 195µA@13.2V
+Two low  level Signal: 1.47mA@13.2V
+
 Parameter Distance 3,3 Meter: 4mA@12V average
 
 ![My image](https://github.com/peterloes/Light_Barrier/blob/master/Getting_Started_Tutorial/2_Mechanik_Sensor_1.JPG)

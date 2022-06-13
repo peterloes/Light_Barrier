@@ -7,9 +7,9 @@ This program is a software module for the hardware platform
 
 Wide Input Voltage Range: 3.3V to 60V
 
-Receiver Vishay: TSSP58038
+Example with Receiver Vishay: TSSP58038 and LED Vishay: VSLB3940
 
-LED Vishay: VSLB3940
+Always low Level triggered.
 
 ![My image](https://github.com/peterloes/Light_Barrier/blob/master/Getting_Started_Tutorial/2_Electronic_board.jpg)
 

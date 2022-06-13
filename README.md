@@ -5,6 +5,8 @@ A standalone Platform for Animal Observation and Manipulation
 This program is a software module for the hardware platform
 "Light_Barrier_2015_3" with two Light_Barriers.
 
+Wide Input Voltage Range: 3.3V to 60V
+
 Receiver Vishay: TSSP58038
 
 LED Vishay: VSLB3940

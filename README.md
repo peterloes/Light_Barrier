@@ -44,4 +44,3 @@ https://github.com/peterloes/Light_Barrier/blob/master/Getting_Started_Tutorial/
 EXTENSION:
 
 https://github.com/peterloes/SmartAnimalTraps
-https://github.com/peterloes/SmartAnimalTraps

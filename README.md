@@ -23,7 +23,7 @@ Parameter Distance 3,3 Meter: 4mA@12V average
 
 ![My image](https://github.com/peterloes/Light_Barrier/blob/master/Getting_Started_Tutorial/2_Mechanik_Sensor_1.JPG)
 
-Prototype: bat counter
+Prototype: Bat counter
 
 https://github.com/peterloes/Light_Barrier/blob/master/Getting_Started_Tutorial/1_poster_overview_LightBarrier_Counter.pdf
 

@@ -1,4 +1,4 @@
-﻿# Light Barrier
+﻿# Lightbarrier
 
 A standalone Platform for Animal Observation and Manipulation.
 

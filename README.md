@@ -1,4 +1,4 @@
-﻿# Lightbarrier
+﻿# Lightbarriers
 
 A standalone Platform for Animal Observation and Manipulation.
 
@@ -13,19 +13,19 @@ Always low level triggered for wire monitoring(breakage).
 
 ![My image](https://github.com/peterloes/Light_Barrier/blob/master/Getting_Started_Tutorial/2_Electronic_board.jpg)
 
-Two high level Signal: 204µA@3,3V  -- Two low  level Signal: 1.49mA@3,3V
+Two high level signal: 204µA@3,3V  -- Two low  level signal: 1.49mA@3,3V
 
-Two high level Signal: 195µA@5V    -- Two low  level Signal: 1.49mA@5V
+Two high level signal: 195µA@5V    -- Two low  level signal: 1.49mA@5V
 
-Two high level Signal: 195µA@13,2V -- Two low  level Signal: 1.47mA@13,2V
+Two high level signal: 195µA@13,2V -- Two low  level signal: 1.47mA@13,2V
 
-Parameter Distance 3,3 Meter: 4mA@12V average
+Parameter distance 3,3 Meter: 4mA@12V average
 
 ![My image](https://github.com/peterloes/Light_Barrier/blob/master/Getting_Started_Tutorial/2_Mechanik_Sensor_1.JPG)
 
 Prototype: Bat counter 
 
-The distance from lightbarrier 1 is 15cm and from lightbarrier 2 is 13cm.
+The distance from light barrier 1 is 15cm and from light barrier 2 is 13cm.
 
 https://github.com/peterloes/Light_Barrier/blob/master/Getting_Started_Tutorial/1_poster_overview_LightBarrier_Counter.pdf
 

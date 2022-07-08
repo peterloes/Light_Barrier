@@ -1,4 +1,4 @@
-﻿# Lightbarriers
+﻿# Light barriers
 
 A standalone platform for animal observation and manipulation.
 
@@ -29,7 +29,7 @@ The distance from light barrier 1 is 15cm and from light barrier 2 is 13cm.
 
 https://github.com/peterloes/Light_Barrier/blob/master/Getting_Started_Tutorial/1_poster_overview_LightBarrier_Counter.pdf
 
-Prototype: Long Range RFID- reader for shore birds
+Prototype: Long range RFID- reader for shore birds
 
 https://github.com/peterloes/Light_Barrier/blob/master/Getting_Started_Tutorial/1_poster_overview_MOMO_LB_LR.pdf
 

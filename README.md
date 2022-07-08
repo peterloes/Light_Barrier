@@ -1,6 +1,6 @@
 ﻿# Lightbarriers
 
-A standalone Platform for Animal Observation and Manipulation.
+A standalone platform for animal observation and manipulation.
 
 This program is a software module for the hardware platform
 "Light_Barrier_2015_3" developed for two pairs of lightbarriers.
